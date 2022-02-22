@@ -12,3 +12,7 @@ Receives a number and test if it is a valid Credit card number and the flag.
 ## Scrabble
 
 Receives 2 words and test which one scores higher, then returns the winner.
+
+## Readability
+
+Receives a Text and inform the grade using the Coleman-Liau index.

@@ -16,3 +16,7 @@ Receives 2 words and test which one scores higher, then returns the winner.
 ## Readability
 
 Receives a Text and inform the grade using the Coleman-Liau index.
+
+## Substition
+
+Receives an alphabetical key and a text then encrypt the text

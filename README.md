@@ -20,3 +20,27 @@ Receives a Text and inform the grade using the Coleman-Liau index.
 ## Substitution
 
 Receives an alphabetical key and a text then encrypt the text
+
+## Plurality
+
+Plurality vote system, recieves candidates and votes and returns the election winner according to the plurality vote system
+
+## Tideman
+
+Tideman vote system, recieves candidates and ranked votes then returns the election winner according to the tideman vote system
+
+## Volume
+
+Changes the volume of a .wav file by a factor, can go volume up or volume down.
+
+## inheritance
+
+create a family tree with blood types inherited by the parents
+
+## filter-more
+
+filter an image using one of the following filters: grayscale, reflect, blur or detect edges
+
+## Recover
+
+Recovers .jpg images from deleted data file

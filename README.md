@@ -44,3 +44,7 @@ filter an image using one of the following filters: grayscale, reflect, blur or 
 ## Recover
 
 Recovers .jpg images from deleted data file
+
+## Speller
+
+Receives a dictionary .txt file and a text .txt file to check for spelling errors, constructing a hashtable with all the words in the dictionary. Inside the folder there is also a program that counts and prints all the times two starting char repeats. EX: AA: 1    BA: 1025...

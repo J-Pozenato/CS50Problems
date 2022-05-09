@@ -1,6 +1,8 @@
 # CS50Problems
 Codes submitted for the CS50 problems set
 
+# C Language
+
 ## Mario-more
 
 Receives a number(1-8) and construct an obstacle just like in the game mario
@@ -48,3 +50,10 @@ Recovers .jpg images from deleted data file
 ## Speller
 
 Receives a dictionary .txt file and a text .txt file to check for spelling errors, constructing a hashtable with all the words in the dictionary. Inside the folder there is also a program that counts and prints all the times two starting char repeats. EX: AA: 1    BA: 1025...
+
+# Python Language
+
+## World-Cup
+
+Reads a csv file with teams and ratings then simulate N tournaments and returns the chance of each team winning
+

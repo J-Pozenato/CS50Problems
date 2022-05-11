@@ -57,3 +57,18 @@ Receives a dictionary .txt file and a text .txt file to check for spelling error
 
 Reads a csv file with teams and ratings then simulate N tournaments and returns the chance of each team winning
 
+## Credit
+
+Receives a number and test if it is a valid Credit card number and the flag. Python version
+
+## Readability
+
+Receives a Text and inform the grade using the Coleman-Liau index.  Python version
+
+## Mario-more
+
+Receives a number(1-8) and construct an obstacle just like in the game mario.  Python version
+
+## DNA
+
+Reads a csv file with names and STRs then check a txt file with a long string of DNA and check if the STRs values show in the DNA string
